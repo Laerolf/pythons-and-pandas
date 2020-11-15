@@ -9,3 +9,7 @@ Currently we have 2 datasets:
 * [Titanic](./data/titanic/gender_submission.csv)
 
 12/18 first time
+
+## Extra
+
+* [Jupyter Notebook shortcuts](https://cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook)
